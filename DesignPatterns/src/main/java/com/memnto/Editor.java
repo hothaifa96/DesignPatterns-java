@@ -1,4 +1,4 @@
-package com.DesignPatterns.Behavioral.memnto;
+package com.memnto;
 
 public class Editor {
     private String content;

@@ -1,4 +1,4 @@
-package com.DesignPatterns.Behavioral.memnto;
+package com.memnto;
 
 import java.util.ArrayList;
 import java.util.List;

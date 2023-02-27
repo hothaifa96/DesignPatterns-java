@@ -1,4 +1,4 @@
-package com.DesignPatterns.Behavioral.memnto;
+package com.memnto;
 
 public class Main {
     public static void main(String[] args) {

@@ -2,7 +2,6 @@ package com.strategyPattern.exercise;
 
 public class Main {
     public static void main(String[] args) {
-        //
         // sending a message using telegram works like this
         // we have a sender class with single function called send
         // the function receives as argument a encrypting salt -int
