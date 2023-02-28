@@ -17,8 +17,7 @@ public class Main {
 //                  - Truck
 //                  - Human Resource
 //                  - Human Resource
-//        Look at the current implementation of our application in the
-//        composite package.
+//
 //        What are the problems with this implementation? Refactor the code
 //        using the composite pattern.
     }
